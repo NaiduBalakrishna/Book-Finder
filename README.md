@@ -79,6 +79,6 @@ While this project is primarily built as a portfolio/job application piece, sugg
 ---
 
 ## 📧 Contact
-Created by **[Your Name]**  
-- GitHub: [your-username](https://github.com/your-username)  
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)  
+Created by **Naidu Balakrishna**  
+- GitHub: (https://github.com/NaiduBalakrishna/)  
+- LinkedIn: (https://www.linkedin.com/in/NaiduBalakrishna) 
